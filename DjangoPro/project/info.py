@@ -1,0 +1,5 @@
+EMAIL_USE_TLS=True
+EMAIL_HOST=''
+EMAIL_HOST_USER='EnterUrEmail'
+EMAIL_HOST_PASSWORD='can get from ur google account'
+EMAIL_PORT=587
